@@ -1,5 +1,7 @@
 The **MetaMIDI Toolkit** is a collection of Blueprints for Unreal Engine 5.4 to provide a more intuitive way to create adaptive music for Game Designers, while still carving out a large space for composition and customization by Game Composers.
 
+You can **download** the Toolkit by clicking GitHub’s Code button > Download Zip.
+
 Please see the full manual in the _MetaMIDI_Toolkit-Additional_ folder.
 
 --
